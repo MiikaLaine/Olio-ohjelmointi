@@ -1,0 +1,7 @@
+C:\Users\miika\source\repos\BookAndAuthor\BookAndAuthor\bin\Debug\BookAndAuthor.exe.config
+C:\Users\miika\source\repos\BookAndAuthor\BookAndAuthor\bin\Debug\BookAndAuthor.exe
+C:\Users\miika\source\repos\BookAndAuthor\BookAndAuthor\bin\Debug\BookAndAuthor.pdb
+C:\Users\miika\source\repos\BookAndAuthor\BookAndAuthor\obj\Debug\BookAndAuthor.csproj.AssemblyReference.cache
+C:\Users\miika\source\repos\BookAndAuthor\BookAndAuthor\obj\Debug\BookAndAuthor.csproj.CoreCompileInputs.cache
+C:\Users\miika\source\repos\BookAndAuthor\BookAndAuthor\obj\Debug\BookAndAuthor.exe
+C:\Users\miika\source\repos\BookAndAuthor\BookAndAuthor\obj\Debug\BookAndAuthor.pdb

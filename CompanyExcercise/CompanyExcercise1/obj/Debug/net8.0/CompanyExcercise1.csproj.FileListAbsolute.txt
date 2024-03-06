@@ -1,0 +1,14 @@
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\obj\Debug\net8.0\CompanyExcercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\obj\Debug\net8.0\CompanyExcercise1.AssemblyInfoInputs.cache
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\obj\Debug\net8.0\CompanyExcercise1.AssemblyInfo.cs
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\obj\Debug\net8.0\CompanyExcercise1.csproj.CoreCompileInputs.cache
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\bin\Debug\net8.0\CompanyExcercise1.exe
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\bin\Debug\net8.0\CompanyExcercise1.deps.json
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\bin\Debug\net8.0\CompanyExcercise1.runtimeconfig.json
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\bin\Debug\net8.0\CompanyExcercise1.dll
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\bin\Debug\net8.0\CompanyExcercise1.pdb
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\obj\Debug\net8.0\CompanyExcercise1.dll
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\obj\Debug\net8.0\refint\CompanyExcercise1.dll
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\obj\Debug\net8.0\CompanyExcercise1.pdb
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\obj\Debug\net8.0\CompanyExcercise1.genruntimeconfig.cache
+C:\Users\miika\source\repos\CompanyExcercise\CompanyExcercise1\obj\Debug\net8.0\ref\CompanyExcercise1.dll
