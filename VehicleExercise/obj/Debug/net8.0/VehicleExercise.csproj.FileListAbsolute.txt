@@ -1,0 +1,14 @@
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\bin\Debug\net8.0\VehicleExercise.exe
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\bin\Debug\net8.0\VehicleExercise.deps.json
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\bin\Debug\net8.0\VehicleExercise.runtimeconfig.json
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\bin\Debug\net8.0\VehicleExercise.dll
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\bin\Debug\net8.0\VehicleExercise.pdb
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\obj\Debug\net8.0\VehicleExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\obj\Debug\net8.0\VehicleExercise.AssemblyInfoInputs.cache
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\obj\Debug\net8.0\VehicleExercise.AssemblyInfo.cs
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\obj\Debug\net8.0\VehicleExercise.csproj.CoreCompileInputs.cache
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\obj\Debug\net8.0\VehicleExercise.dll
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\obj\Debug\net8.0\refint\VehicleExercise.dll
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\obj\Debug\net8.0\VehicleExercise.pdb
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\obj\Debug\net8.0\VehicleExercise.genruntimeconfig.cache
+C:\Users\miika\source\repos\VehicleExercise\VehicleExercise\obj\Debug\net8.0\ref\VehicleExercise.dll

@@ -1,0 +1,17 @@
+C:\Users\miika\source\repos\FileExercise\FileExercise\bin\Debug\net8.0\FileExercise.exe
+C:\Users\miika\source\repos\FileExercise\FileExercise\bin\Debug\net8.0\FileExercise.deps.json
+C:\Users\miika\source\repos\FileExercise\FileExercise\bin\Debug\net8.0\FileExercise.runtimeconfig.json
+C:\Users\miika\source\repos\FileExercise\FileExercise\bin\Debug\net8.0\FileExercise.dll
+C:\Users\miika\source\repos\FileExercise\FileExercise\bin\Debug\net8.0\FileExercise.pdb
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\FileExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\FileExercise.AssemblyInfoInputs.cache
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\FileExercise.AssemblyInfo.cs
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\FileExercise.csproj.CoreCompileInputs.cache
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\FileExercise.dll
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\refint\FileExercise.dll
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\FileExercise.pdb
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\FileExercise.genruntimeconfig.cache
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\ref\FileExercise.dll
+C:\Users\miika\source\repos\FileExercise\FileExercise\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\FileExercise.csproj.AssemblyReference.cache
+C:\Users\miika\source\repos\FileExercise\FileExercise\obj\Debug\net8.0\FileExer.2AF338F8.Up2Date

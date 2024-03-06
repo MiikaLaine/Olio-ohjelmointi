@@ -1,0 +1,7 @@
+C:\Users\miika\source\repos\Monikulmiot\Monikulmiot\obj\Debug\Monikulmiot.csproj.AssemblyReference.cache
+C:\Users\miika\source\repos\Monikulmiot\Monikulmiot\obj\Debug\Monikulmiot.csproj.CoreCompileInputs.cache
+C:\Users\miika\source\repos\Monikulmiot\Monikulmiot\bin\Debug\Monikulmiot.exe.config
+C:\Users\miika\source\repos\Monikulmiot\Monikulmiot\bin\Debug\Monikulmiot.exe
+C:\Users\miika\source\repos\Monikulmiot\Monikulmiot\bin\Debug\Monikulmiot.pdb
+C:\Users\miika\source\repos\Monikulmiot\Monikulmiot\obj\Debug\Monikulmiot.exe
+C:\Users\miika\source\repos\Monikulmiot\Monikulmiot\obj\Debug\Monikulmiot.pdb
